@@ -1,0 +1,54 @@
+[
+  {
+    "username": "r2d2.unit",
+    "password": "$2b$10$OuduLLIM5xdMSS0udpx64OTfme/CUhW440/TUTtJm8hv0CTvmkw.G"
+  },
+  {
+    "username": "boba.fett",
+    "password": "$2b$09$yYcqJU1qT1FQ731q2Fh2geMCyKDZJK4Qn3wuoEsO4qNJmHKQNK7U6"
+  },
+  {
+    "username": "palpatine.sidious",
+    "password": "$2b$09$H4x8bv8Lb7vix2BsulNNCuTeWsAoPss17.4NaqsGN4ssFxXT5iMAm"
+  },
+  {
+    "username": "yoda.master",
+    "password": "$2b$09$/ZWmS/JKeenJbkuvpYb/ouXn/cIDtgoaEL/Ra15HjkkLmvz7TJ4jq"
+  },
+  {
+    "username": "obi.wan",
+    "password": "$2b$09$rWgF13req2mPJKy1z8Vp0.GCbOQzTrzpZ/SsCKbAuHQwd7oUdUVU6"
+  },
+  {
+    "username": "chewbacca",
+    "password": "$2b$09$MtePRWDYjxE5Nj.kBix0je97vA/YjSqK1PyhUwSXLAcBmVWK81O7u"
+  },
+  {
+    "username": "leia.organa",
+    "password": "$2b$09$5JGXcr1MEJc/BhR1iPKGrujNHcnTGVBoK0iKmqwNDozySAHjmiVWu"
+  },
+  {
+    "username": "luke.skywalker",
+    "password": "$2b$09$z.86Mo8TKcAS5yDcrX4CbeTfKjzCW1I7cy7DZRH6ZhxgiFEtM2kNa"
+  },
+  {
+    "username": "han.solo",
+    "password": "$2b$09$A/wc5NS55yS4ZcSCdW2bhe9Iukf/2pRPRyeuP7LE.BTLpE1NOUvRu"
+  },
+  {
+    "username": "darth.vader",
+    "password": "$2b$09$V1ZhdjUXqZhjkDV38Skb9erPpVP83r5q.lXyXwD7SUMcg0fCHxNz."
+  },
+  {
+    "id": "0136ea3a-78de-43a6-b9a9-0a045c5f4507",
+    "username": "coco.solo",
+    "password": "$2b$09$q39oI3FLOTnntT2Dd3v.sugTdAxpmzcdhCuSTpCB7VrjRhbJ6yUMm",
+    "role": "Extra-Terrestre"
+  },
+  {
+    "id": "57f05cd6-9ce1-4033-80d2-1ca3d94d39c9",
+    "username": "Laure",
+    "password": "$2b$09$GhHblPXJ.3V7zRmwx2BFDuwAyKGzsWEud5/5Xn6/MBYQ7gYp5LOcS",
+    "role": "admin"
+  }
+]

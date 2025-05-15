@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "nom": "Sèche-Chewbacca 3000",
+    "marque": "WookieeCare",
+    "prix": 79.99,
+    "stock": 12,
+    "utilite": 2,
+    "niveau_de_sum": 9
+  },
+  {
+    "id": 2,
+    "nom": "Yoda Coach Personnel (voix inversée)",
+    "marque": "Dagobah Wellness",
+    "prix": 129.5,
+    "stock": 7,
+    "utilite": 5,
+    "niveau_de_sum": 8
+  },
+  {
+    "id": 3,
+    "nom": "Grille-Pain Dark Vador (toast marqué Empire)",
+    "marque": "Sith Kitchen",
+    "prix": 39.95,
+    "stock": 25,
+    "utilite": 6,
+    "niveau_de_sum": 6
+  },
+  {
+    "id": 4,
+    "nom": "Tapis de yoga BB-8 roulant",
+    "marque": "AstroZen",
+    "prix": 59.9,
+    "stock": 14,
+    "utilite": 4,
+    "niveau_de_sum": 7
+  },
+  {
+    "id": 5,
+    "nom": "Sabre laser extensible pour barbecue",
+    "marque": "Grill Wars",
+    "prix": 49.99,
+    "stock": 8,
+    "utilite": 7,
+    "niveau_de_sum": 5
+  },
+  {
+    "id": 6,
+    "nom": "Porte-clés Jar Jar Binks qui parle tout seul",
+    "marque": "Gungan Co.",
+    "prix": 9.99,
+    "stock": 42,
+    "utilite": 1,
+    "niveau_de_sum": 10
+  },
+  {
+    "id": 7,
+    "nom": "Parapluie étoile noire (pluie ou destruction totale)",
+    "marque": "Imperial Weather",
+    "prix": 24.99,
+    "stock": 17,
+    "utilite": 5,
+    "niveau_de_sum": 7
+  },
+  {
+    "id": 8,
+    "nom": "Diffuseur d'odeur R2-D2 (bruits inclus)",
+    "marque": "AromaDroid",
+    "prix": 34,
+    "stock": 10,
+    "utilite": 6,
+    "niveau_de_sum": 6
+  },
+  {
+    "id": 9,
+    "nom": "Peignoir Jedi réversible côté obscur",
+    "marque": "ForceWear",
+    "prix": 69.95,
+    "stock": 21,
+    "utilite": 8,
+    "niveau_de_sum": 4
+  },
+  {
+    "id": 10,
+    "nom": "Coussin de méditation Maître Windu (version violette)",
+    "marque": "ZenJedi",
+    "prix": 44.99,
+    "stock": 11,
+    "utilite": 7,
+    "niveau_de_sum": 5
+  },
+  {
+    "id": "aed270d9-c3ef-4c15-9f8c-c86280446418",
+    "nom": "Litière pour chat sable de Tatooine (auto-chauffante)",
+    "marque": "PawWars",
+    "prix": 22.99,
+    "stock": 18,
+    "utilite": 4,
+    "niveau_de_sum": 8
+  }
+]
